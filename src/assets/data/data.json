@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "title": "Curriculum Vittae",
+        "technologies": [
+            "html",
+            "css"
+        ],
+        "img": "../img/CV.png",
+        "date_creation": "29/09/2023",
+        "github": "https://github.com/Fanelaz/CV"
+    },
+    {
+        "id": 2,
+        "title": "Commentaire dynamisé",
+        "technologies": [
+            "html",
+            "css",
+            "javascript"
+        ],
+        "img": "../img/commentaires.png",
+        "date_creation": "19/10/2023",
+        "github": "https://github.com/Fanelaz/devoir-sur-le-commentaire"
+    },
+    {
+        "id": 3,
+        "title": "Cahier des Charges",
+        "technologies": [
+            "pdf"
+        ],
+        "img": "../img/CDC.png",
+        "date_creation": "15/11/2023",
+        "github": "https://github.com/Fanelaz/Cahier-des-charges-Portfolio"
+    }
+]
